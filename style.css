@@ -1,0 +1,68 @@
+body{
+    text-align: center;
+    background: linear-gradient(#28ede7 0%, #28b5ed 100%);
+    
+        
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+}
+#Welcome{
+    padding: 70px;
+    text-align: center;
+}
+h1{
+    font-size: 18px;
+    
+}
+p{
+    font-size: 18px;
+    
+}
+h2{
+    font-size: 20px;
+    
+}
+.line{
+    height: 6px;
+    background-color: aqua;
+    width: 70px;
+    margin: 8px auto;
+    
+}
+#bio{
+    padding: 20px;
+        font-size: 42px;
+    
+            
+}
+.menu{
+    list-style: none;
+    font-family:cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    
+    
+}
+.menu a{
+    color: black !important;
+    
+}
+.link{
+    color: aquamarine;
+    display: inline;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    
+}
+.link:hover{
+    background-color: fuchsia;
+} 
